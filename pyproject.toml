@@ -1,6 +1,6 @@
 [project]
 name = "splay-tree"
-version = "0.1.1"
+version = "0.1.2"
 description = "Self-adjustes a binary search tree to move accessed nodes to the root."
 requires-python = ">=3.10"
 dependencies = []
